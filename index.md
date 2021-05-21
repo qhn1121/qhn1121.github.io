@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
+### 曲豆豆来看看这是什么鬼？
+
 曲豆豆居然能用GitHub建个人主页了？天哪，简直不可思议！
 
-所以以后曲豆豆就在这里_搞事情_了？
+所以以后*曲豆豆*就在这里**搞事情**了？
 
 You can use the [editor on GitHub](https://github.com/qhn1121/qhn1121.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
