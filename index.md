@@ -5,6 +5,8 @@
 ## 书籍翻译
 
 * [实定理的复证明-Peter D. Lax, Lawrence Zalcmann](https://github.com/qhn1121/qdd-translation/raw/master/Math0411.pdf)
+* [哈密顿演化系统的几何-Boris A. Dubrovin](https://github.com/qhn1121/qdd-translation/raw/master/Math0412.pdf)
+* [紧黎曼曲面-Raghavan Narasimhan](https://github.com/qhn1121/qdd-translation/raw/master/Math0413.pdf)
 
 ## 自编讲义
 
