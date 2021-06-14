@@ -1,38 +1,23 @@
-## Welcome to GitHub Pages
+# 曲豆豆译馆
 
-### 曲豆豆来看看这是什么鬼？
+这里用于存放曲豆豆的一些LaTeX随笔
 
-曲豆豆居然能用GitHub建个人主页了？天哪，简直不可思议！
+##书籍翻译
 
-所以以后*曲豆豆*就在这里**搞事情**了？
+-[实定理的复证明-Peter D. Lax, Lawrence Zalcmann](https://github.com/qhn1121/qdd-translation/raw/master/Math0411.pdf)
 
-# 2021.5.25 小爷找回了曲豆豆。
+##自编讲义
+
+（待更新）
+
+##散文随笔
+
+（待更新）
+
 
 You can use the [editor on GitHub](https://github.com/qhn1121/qhn1121.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
