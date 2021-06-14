@@ -2,15 +2,15 @@
 
 这里用于存放曲豆豆的一些LaTeX随笔
 
-##书籍翻译
+## 书籍翻译
 
 -[实定理的复证明-Peter D. Lax, Lawrence Zalcmann](https://github.com/qhn1121/qdd-translation/raw/master/Math0411.pdf)
 
-##自编讲义
+## 自编讲义
 
 （待更新）
 
-##散文随笔
+## 散文随笔
 
 （待更新）
 
