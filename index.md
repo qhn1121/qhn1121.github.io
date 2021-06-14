@@ -7,7 +7,7 @@
 * [实定理的复证明-Peter D. Lax, Lawrence Zalcmann](https://github.com/qhn1121/qdd-translation/raw/master/Math0411.pdf)
 * [哈密顿演化系统的几何-Boris A. Dubrovin](https://github.com/qhn1121/qdd-translation/raw/master/Math0412.pdf)
 * [紧黎曼曲面-Raghavan Narasimhan](https://github.com/qhn1121/qdd-translation/raw/master/Math0413.pdf)
-* [孤子: 微分方程, 对称与无穷维代数-M. Jimbo, T.Miwa, E.Date](https://github.com/qhn1121/qdd-translation/raw/master/Math0414.pdf)正在更新. 施工进度: 9/10. 
+* [孤子: 微分方程, 对称与无穷维代数-M. Jimbo, T.Miwa, E.Date](https://github.com/qhn1121/qdd-translation/raw/master/Math0414.pdf) （正在更新. 施工进度: 9/10.) 
 
 ## 自编讲义
 
