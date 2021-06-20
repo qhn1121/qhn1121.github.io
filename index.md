@@ -28,7 +28,7 @@
 * [实定理的复证明-Peter D. Lax, Lawrence Zalcmann](https://github.com/qhn1121/qdd-translation/raw/master/Math0411.pdf)
 与网友Imsane, biubiu共同翻译. 这是曲豆豆翻译的第一本书. 
 
-* [陶哲轩趣题集](https://github.com/qhn1121/qdd-translation/raw/master/Math6101.pdf) 
+* [陶哲轩趣题集](https://github.com/qhn1121/qdd-translation/raw/master/Math0601.pdf) 
 与打字狂魔聂海波老师合作而成. 曲豆豆负责第五章的内容, 以及整本书的排版. 正文绝大部分为聂海波老师录入. 
 当前施工进度: 6/7. 很快就写完了. 
 
