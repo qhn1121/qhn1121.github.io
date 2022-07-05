@@ -13,7 +13,8 @@
 
 ## 学习笔记
 
-（待更新）
+* [组合学笔记](https://raw.githubusercontent.com/qhn1121/qdd-translation/master/Comb.pdf)
+* [量子力学笔记](https://raw.githubusercontent.com/qhn1121/qdd-translation/master/20385QM.pdf)
 
 ## 自编讲义
 
