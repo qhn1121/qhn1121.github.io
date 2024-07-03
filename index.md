@@ -19,7 +19,9 @@
 ### 个人学习笔记与自编讲义
 
 * [组合学初步](https://raw.githubusercontent.com/qhn1121/qdd-translation/master/Comb.pdf)
-* [量子力学笔记](https://raw.githubusercontent.com/qhn1121/qdd-translation/master/20385QM.pdf)
+* [辛几何初步](https://github.com/qhn1121/qdd-translation/blob/master/Symplectic.pdf)
+* [矩阵积分与可积系统](https://github.com/qhn1121/qdd-translation/blob/master/MatrixModels.pdf)
+* [广义Frobenius流形讲义](https://github.com/qhn1121/qdd-translation/blob/master/GFMonline.pdf)
 
 ### 已发表学术论文
 
@@ -32,14 +34,13 @@
 ### 中学数学教学资料
 (待补充...)
 
-### 书籍翻译与重排
-* [陶哲轩趣题集](https://github.com/qhn1121/qdd-translation/raw/master/Math0601.pdf) 
+* [陶哲轩趣题集](https://github.com/qhn1121/qdd-translation/raw/master/Math0601.pdf)
+* [函数奇偶性-鸡娃填鸭讲义](https://github.com/qhn1121/qdd-translation/blob/master/%E5%87%BD%E6%95%B0%E5%A5%87%E5%81%B6%E6%80%A7-%E9%B8%A1%E5%A8%83%E5%A1%AB%E9%B8%AD%E8%AE%B2%E4%B9%89.pdf)
+* [补充题-二项分布与超几何分布的期望](https://github.com/qhn1121/qdd-translation/blob/master/2_%E9%80%89%E5%81%9A%E9%A2%98-%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%9C%9F%E6%9C%9B.pdf)
 
 ## 其它散文随笔
 
 （待补充...）
-
-
 
 
 
