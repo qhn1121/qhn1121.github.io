@@ -26,7 +26,7 @@
 * [紧李群- Mark R. Sepanski (GTM235)](https://github.com/qhn1121/qdd-translation/raw/master/Math0415.pdf)
 
 ### 杂乱笔记
-* [曲豆豆的数学垃圾堆(不成体系的闲笔)](https://github.com/qhn1121/qdd-translation/raw/master/QddNotes.pdf)
+* [曲豆豆的数学垃圾堆(不成体系的杂笔)](https://github.com/qhn1121/qdd-translation/raw/master/QddNotes.pdf)
 
 ## 科研成果
 
