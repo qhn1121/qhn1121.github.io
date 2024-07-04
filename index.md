@@ -3,7 +3,7 @@
 嗨！~ 我是**曲豆豆**, 一个数学爱好者. 数学喜好如下: 
 
 * **专业爱好**: 数学物理, 可积系统;
-  - 对非平坦单位广义Frobenius流形及其与双哈密顿可积方程簇的联系有一定研究.
+  - 对非平坦单位广义Frobenius流形及其与双哈密顿可积方程簇的联系有些许个人见解.
   
 * **业余爱好**: 微分几何, 组合数学, 概率论,
   - 以及 _中学数学课程与教学论(手动狗头)_. 
@@ -23,7 +23,10 @@
 * [哈密顿演化系统的几何-Boris A. Dubrovin](https://github.com/qhn1121/qdd-translation/raw/master/Math0412.pdf)
 * [紧黎曼曲面-Raghavan Narasimhan](https://github.com/qhn1121/qdd-translation/raw/master/Math0413.pdf)
 * [孤子: 微分方程, 对称与无穷维代数-M. Jimbo, T.Miwa, E.Date](https://github.com/qhn1121/qdd-translation/raw/master/Math0414.pdf) 
-* [紧李群- Mark R. Sepanski (GTM235)](https://github.com/qhn1121/qdd-translation/raw/master/Math0415.pdf) 
+* [紧李群- Mark R. Sepanski (GTM235)](https://github.com/qhn1121/qdd-translation/raw/master/Math0415.pdf)
+
+### 杂乱笔记
+* [曲豆豆的数学垃圾堆(不成体系的闲笔)](https://github.com/qhn1121/qdd-translation/raw/master/QddNotes.pdf)
 
 ## 科研成果
 
