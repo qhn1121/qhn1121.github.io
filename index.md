@@ -16,7 +16,7 @@
 * [组合学初步](https://raw.githubusercontent.com/qhn1121/qdd-translation/master/Comb.pdf)
 * [辛几何初步](https://github.com/qhn1121/qdd-translation/raw/master/Symplectic.pdf)
 * [矩阵积分与可积系统](https://github.com/qhn1121/qdd-translation/raw/master/MatrixModels.pdf)
-* [形式变分与可积系统](https://github.com/qhn1121/qdd-translation/blob/master/Hamiltonian.pdf)
+* [形式变分与可积系统](https://github.com/qhn1121/qdd-translation/raw/master/Hamiltonian.pdf)
 * [广义Frobenius流形讲义](https://github.com/qhn1121/qdd-translation/raw/master/GFMonline.pdf)
 
 ### 书籍翻译与重排
