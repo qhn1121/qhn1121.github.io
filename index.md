@@ -38,6 +38,7 @@
 * [3] S.-Q. Liu, **H. Qu**, Y. Wang, Y. Zhang, _Solutions of the loop equations of a class of generalized Frobenius manifolds_,  Communications in Mathematical Physics (2024). [doi: 10.1007/s00220-024-05083-7](https://link.springer.com/article/10.1007/s00220-024-05083-7), [arXiv: 2402.00373](https://arxiv.org/abs/2402.00373).
 * [4] S.-Q. Liu, **H. Qu**, Y. Zhang, _Legendre transformations of a class of generalized Frobenius manifolds and the associated integrable hierarchies_,   Communications in Mathematical Physics (2025). [doi: 10.1007/s00220-025-05289-3](https://link.springer.com/article/10.1007/s00220-025-05289-3), [arXiv:2411.15496](https://arxiv.org/abs/2411.15496).
 * [5] **H. Qu**, Q. Zhao, _Asymmetric rational reductions of 2D-Toda hierarchy and a generalized Frobenius manifold_, [arXiv:2510.04151](https://arxiv.org/abs/2510.04151).
+* [6] **H. Qu**, Q. Zhao, _Bihamiltonian structure of the (n,1)-type rational reductions of the 2D-Toda hierarchy_, [arXiv:2606.23167](https://arxiv.org/abs/2606.23167).
 
 
 ## 教学信息
